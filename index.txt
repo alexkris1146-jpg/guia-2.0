@@ -1,0 +1,58 @@
+<!doctype hmtml>
+ <html lang=space>
+  <head>
+    <title> guia de zelda tears of the kingdom </title>
+    <meta charset ="utf-8">
+    <meta name ="description" content = "the legend of zelda">
+    <meta name="viewport" content="width=device-width,initial-scale=10">
+    <link rel="icon" href="logo.png">
+   <style>
+   nav a{
+       font-size:24px;
+        padding:10px 15px;
+          text-decoration:none;
+         color:#000E70;
+     }
+  nav a:hover{
+   color:#6273F2;
+   }
+   body{
+      background-color:##FEFEFE;
+      }
+    h1{
+        color:#199400;
+        font-size:34px;
+        }
+       h2 {
+      color:#D4BD0C;
+      font-size:32px;
+     }
+   </style>
+  </head>
+  <body>
+   <header>
+  <center><h1><img src="trifuerza.png" width="4%"> GUIA ZELDA TEARS OF THE KINGDOM  <right><img src="pngegg.png" width="4%"></right></h1></center>
+      </header>
+  <nav>
+   <center><a href="Armas" width="60%"> Armas </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="Jefes" width="60%"> jefes </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="Enemigos" width="60%"> enemigos </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   </center>
+  </nav>
+   <main>
+    <section>
+   <center> <h1>Progrecion en la historia</h1></center> 
+     <h2>primera zona/h2>
+      <p><strong>la primera zona es la "great sky island" o en español "la gran isla de los albores</strong></P>
+       <p>en esta primera zona del juego que funciona como un tutorial para el jugador, se presentan varias cosas claves en esta zona inicial
+        como seria el acceso a la ultramano, combinacion, retroceso e infiltracion
+       <p><strong><center>mapa de la isla de los albores</center></strong> </p>
+       <center><p><strong>santuarios disponibles en este punto del juego</strong><p/></center> 
+        <center> <img src="isla de los albores.png" alt="imagen no disponible"></center>
+          <br>
+        <p><strong>en cada uno habra una mejora de la mano disponible, en el siguiente orden:</strong><p/>
+       <p>ultramano<p>
+      <img src="ultrahand.png" alt="imagen no disponible">
+      </section>
+    </body>
+ </html>
